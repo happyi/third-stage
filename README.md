@@ -7,7 +7,8 @@ setup
    npm start
    
 intro
-   
+   the result
+   ![Image text](http://os8ijrim6.bkt.clouddn.com/three-grame.png)
   demo for react 、simple Tic Tac Toe 、solved issue put forward by react as below
    
 solved issue
