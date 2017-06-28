@@ -11,8 +11,6 @@
    
    ![Image text](http://os8ijrim6.bkt.clouddn.com/three-grame.png
    
-
-   
 ### solved issue
     
 1. Display the move locations in the format "(1, 3)" instead of "6".
